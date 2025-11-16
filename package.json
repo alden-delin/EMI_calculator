@@ -1,0 +1,81 @@
+{
+  "name": "emi-calculator",
+  "version": "1.0.0",
+  "description": "A simple EMI calculator website",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": ["emi", "calculator", "loan"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
+  }
+}
+(base) sankaransanjai@Sankarans-MacBook-Pro EMI_calculator % git checkout test
+A       .gitignore
+D       DEVOPS project
+A       __tests__/calculator.test.js
+D       emi-calculator-frontend/README.md
+D       emi-calculator-frontend/styles.css
+D       index.html
+A       jest.config.js
+A       package-lock.json
+A       package.json
+D       styles.css
+Already on 'test'
+Your branch is up to date with 'origin/test'.
+(base) sankaransanjai@Sankarans-MacBook-Pro EMI_calculator % git push origin test
+Missing or invalid credentials.
+Error: connect ENOENT /var/folders/2k/1v592fwj5tsbrn35h_m7g2c40000gn/T/vscode-git-2965921b2f.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'connect',
+  address: '/var/folders/2k/1v592fwj5tsbrn35h_m7g2c40000gn/T/vscode-git-2965921b2f.sock'
+}
+Missing or invalid credentials.
+Error: connect ENOENT /var/folders/2k/1v592fwj5tsbrn35h_m7g2c40000gn/T/vscode-git-2965921b2f.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'connect',
+  address: '/var/folders/2k/1v592fwj5tsbrn35h_m7g2c40000gn/T/vscode-git-2965921b2f.sock'
+}
+remote: No anonymous write access.
+fatal: Authentication failed for 'https://github.com/alden-delin/EMI_calculator.git/'(base) sankaransanjai@Sankarans-MacBook-Pro EMI_calculator % git checkout test
+A       .gitignore
+D       DEVOPS project
+A       __tests__/calculator.test.js
+D       emi-calculator-frontend/README.md
+D       emi-calculator-frontend/styles.css
+D       index.html
+A       jest.config.js
+A       package-lock.json
+A       package.json
+D       styles.css
+Already on 'test'
+Your branch is up to date with 'origin/test'.
+(base) sankaransanjai@Sankarans-MacBook-Pro EMI_calculator % git push origin test
+Missing or invalid credentials.
+Error: connect ENOENT /var/folders/2k/1v592fwj5tsbrn35h_m7g2c40000gn/T/vscode-git-2965921b2f.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'connect',
+  address: '/var/folders/2k/1v592fwj5tsbrn35h_m7g2c40000gn/T/vscode-git-2965921b2f.sock'
+}
+Missing or invalid credentials.
+Error: connect ENOENT /var/folders/2k/1v592fwj5tsbrn35h_m7g2c40000gn/T/vscode-git-2965921b2f.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (node:net:1636:16) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'connect',
+  address: '/var/folders/2k/1v592fwj5tsbrn35h_m7g2c40000gn/T/vscode-git-2965921b2f.sock'
+}
+remote: No anonymous write access.
+fatal: Authentication failed for 'https://github.com/alden-delin/EMI_calculator.git/'
